@@ -1,4 +1,4 @@
-# 🧑‍🤝‍🧑 Group Divider CLI (Command Line Interface)
+# 🧑‍🤝‍🧑 randgpy
 
 Program Python sederhana untuk membagi mahasiswa ke dalam kelompok secara adil dan interaktif, dengan mempertimbangkan ukuran kelompok dan minimal satu anggota perempuan di setiap kelompok.
 
@@ -26,7 +26,7 @@ Pastikan Anda telah menginstal **Python 3** dan pustaka (library) yang diperluka
 
 ### ▶️ Eksekusi
 
-1.  Simpan kode program di atas sebagai file bernama `group_divider.py`.
+1.  Simpan kode program di atas sebagai file bernama `main.py`.
 2.  Jalankan program dari terminal:
     ```bash
     python group_divider.py
